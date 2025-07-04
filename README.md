@@ -9,12 +9,6 @@ A simple **multi-player dice game** built with **HTML**, **CSS**, and **JavaScri
 
 ---
 
-### 📸 Preview
-
-<img src="https://i.imgur.com/zlYAOqQ.png" alt="Pig Game Screenshot" width="600">
-
----
-
 ### 🚀 Features
 
 * 🎯 Turn-based gameplay for two players
